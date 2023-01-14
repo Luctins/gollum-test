@@ -1,0 +1,642 @@
+:PROPERTIES:
+#+TITLE: Games Notes
+#+AUTHOR: Lucas Martins Mendes
+#+OPTIONS: toc:nil todo:nil
+#+FILETAGS: leisure
+#+TAGS:
+#+TODO: TOGET TOBUILD | DONE
+#+STARTUP: content
+:END:
+
+* Warframe
+** Zaws
+   :PROPERTIES:
+   :CREATED:  [2022-07-27 Wed 23:27]
+   :END:
+
+** Weapons
+*** TOBUILD Nataruk
+
+- [ ] missing: primed shred
+
+*** DONE Stahlta
+    CLOSED: [2022-06-14 Tue 10:41]
+    :PROPERTIES:
+    :CREATED:  [2022-06-01 Wed 12:41]
+    :END:
+
+** Sentinels
+*** DONE [#A] Oxylus
+    CLOSED: [2021-11-18 Thu 02:36]
+
+    - use for plant material farming
+    - get botanist to auto scan plants (from simaris)
+    - get main bp from the busyness (fortuna)
+
+*** DONE [#B] Carrier
+    CLOSED: [2022-06-28 Tue 09:47]
+
+    - get at the market
+    - gives extra ammo
+
+** KitGuns
+*** TOGET Mini Arca Plasmor
+
+ + [ ] grip: haymaker
+ + [ ] chamber: catchmoon
+ + [ ] loader: killstream
+
+*** TOGET Auto Shotgun
+
+ + [ ] grip: brash
+ + [ ] chamber: catchmoon
+ + [ ] loader: killstream
+
+*** TOGET Cachmoon + Splat + Lovetap :build:
+
+#+PROPERTY: :width 400
+[[./games-orgimg/20220721_101337_XiMCky.png]]
+
+** Amp
+*** DONE Upgrade: better DPS
+    CLOSED: [2021-11-30 Tue 16:52]
+
+ - [X] Shraksum scaffold
+ - [X] Certus Brace
+ - [X] Prism (any)
+
+** Operator
+   :PROPERTIES:
+   :CREATED:  [2022-11-13 Sun 17:33]
+   :END:
+
+*** TOGET Damage build
+    :PROPERTIES:
+    :CREATED:  [2022-11-13 Sun 17:34]
+    :END:
+
+Void Strike with either:
+- Eternal Onslaught and Eternal Logistics arcanes (both from the Zariman)
+- Magus Melt (Quills) and Eternal Eradicate (Zariman)
+
+** Mods
+*** TOGET High Voltage
+
+    - get from baro
+
+*** DONE Natural Talent
+    CLOSED: [2021-09-09 Thu 14:44]
+
+*** DONE Mach crash
+    CLOSED: [2021-11-15 Mon 15:52]
+
+** Warframes
+*** DONE Hildryn
+    CLOSED: [2022-06-28 Tue 09:53]
+
+    - Arcane barrier - chance de encher escudo toda vez que toma dano no escudo
+    - Arcane Nullifyer - cancela perder escudo por magnético
+
+*** TOBUILD Baruuk
+    :PROPERTIES:
+    :CREATED:  [2022-04-05 Tue 14:02]
+    :END:
+
+Get desert storm
+
+*** TOBUILD Nezha Prime
+
+- [ ] add one forma to fit prime flow
+
+*** TOBUILD Ember Prime
+
+- [ ] add one forma to fit prime flow
+
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:51]
+    :END:
+
+*** TOGET Gyre
+    :PROPERTIES:
+    :CREATED:  [2022-05-26 Thu 23:28]
+    :END:
+
+Zariman bounties
+- [ ] main
+- [ ] systems
+- [ ] chassis
+- [ ] neuroptics
+
+*** TOGET Ash Prime
+    :PROPERTIES:
+    :CREATED:  [2022-05-25 Wed 23:48]
+    :END:
+
+*** TOGET Ash
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:52]
+    :END:
+
+Railjack
+
+*** TOGET Equinox
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:54]
+    :END:
+
+Tyl Regor
+
+- [X] day aspect
+  - [X] systems
+  - [X] chassis
+  - [X] neuroptics
+- [-] night aspect
+  - [ ] systems
+  - [X] chassis
+  - [X] neuroptics
+
+*** TOBUILD Caliban
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:52]
+    :END:
+
+all the plains
+
+- [X] main
+- [X] systems
+- [X] chassis
+- [X] neuroptics
+
+*** TOBUILD Khora
+
+Low sanctuary on round 8
+
+- [ ] main
+- [ ] systems
+- [X] chassis
+- [X] neuroptics
+
+*** DONE [#A] Revenant (quest)
+    CLOSED: [2022-03-12 Sat 20:50]
+
+*** DONE Nova
+    CLOSED: [2022-03-12 Sat 20:50]
+
+    - sounds doable
+    - drops from farming one entity
+
+*** DONE Gara prime
+    CLOSED: [2022-03-12 Sat 20:50]
+
+*** DONE Vauban Prime
+    CLOSED: [2022-03-12 Sat 20:50]
+
+    - Farm oxium and cryotic
+
+*** DONE Garuda
+    CLOSED: [2022-03-12 Sat 20:50]
+
+    - plains
+
+*** DONE Zephir Prime
+    CLOSED: [2022-03-12 Sat 20:50]
+
+    - buy eventually or open relics
+
+*** DONE Grendel
+    CLOSED: [2022-03-12 Sat 20:50]
+
+    - vitus essence
+
+*** DONE Protea
+    CLOSED: [2022-04-02 Sat 18:17]
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:52]
+    :END:
+
+Granum void
+
+*** DONE Saryn
+    CLOSED: [2022-05-25 Wed 23:48]
+    :PROPERTIES:
+    :CREATED:  [2022-03-12 Sat 20:53]
+    :END:
+
+Kela de Thaim
+
+** Melees
+*** TOGET Lesion
+*** TOGET Gram Prime
+*** TOGET Reaper Prime
+*** TOGET Glaive Prime
+*** TOGET Kronen Prime
+*** DONE Infested Zaw
+    CLOSED: [2022-06-28 Tue 09:50]
+
+    - [X] Plague Kriptaph
+    - [X] Sepfahn
+    - [X] Dokhrahn
+
+** Archguns
+*** DONE Mausolon
+    CLOSED: [2022-06-28 Tue 09:50]
+
+get mods:
+    - [X] Sabot Rounds
+    - [X] Automatic Trigger
+    - [X] Dual Rounds
+
+** Specters
+
+The best specters in my opinion are:
+
+*** Nidus
+
+Gives You a semi-consistent strength buff with link and other perks
+
+*** Trinity
+
+- triggers most of her abilities on you health percentage with cooldown
+- gives energy
+
+*** Wisp
+
+- motes: health buff and regen, shock and haste
+
+*** Protea
+
+- refills archgun ammo
+
+*** Harrow
+
+- invulnerability buff
+- energy restore buff
+
+*** Vauban
+
+- a lot of little traps and useful stuff
+
+*** Xaku
+
+- turret on legs
+
+** Drop History :aggregator:
+
+each caracter is a run, with Y for did drop and N for did not, or a list with (R: rare, U:uncommon, C: common)
+
+*** Profit Taker Phase III
+    :PROPERTIES:
+    :CREATED:  [2022-01-21 Fri 10:04]
+    :END:
+
+**** 2022-01-19
+     :PROPERTIES:
+     :CREATED:  [2022-01-21 Fri 10:05]
+     :END:
+
+- R: Repeller systems
+- C: Resolute Focus
+- C: Gyromag systems
+- R: Repeller systems
+
+**** Gravsystem
+
+NNNNN NNNNN NNYNN Y
+
+*** Kuva weapons
+    :PROPERTIES:
+    :CREATED:  [2022-05-19 Thu 00:14]
+    :END:
+
+**** DONE Goal: none
+     CLOSED: [2022-07-20 Wed 00:58]
+     :PROPERTIES:
+     :CREATED:  [2022-05-19 Thu 00:21]
+     :END:
+
+ - Brahk
+ - Kraken
+ - Tonkor
+ - Grattler
+ - Chakkhur
+
+**** WTDO Goal: Ogris
+     CLOSED: [2022-10-28 Fri 01:17]
+     :PROPERTIES:
+     :CREATED:  [2022-08-02 Tue 00:08]
+     :END:
+
+- Tonkor
+- ???
+- Shildeg
+- Brakk
+- Ayanga
+- ??
+- Chakkhur
+
+--Syster--
+
+**** DONE Goal: Ogris
+     CLOSED: [2022-11-11 Fri 20:10]
+     :PROPERTIES:
+     :CREATED:  [2022-10-28 Fri 01:17]
+     :END:
+
+- Ayanga
+- Shildeg
+- Seer
+- Twin Stubbas
+- Hek
+- Khom
+- Zarr
+- Ogris
+
+**** DONE Goal: None
+     CLOSED: [2022-12-19 Mon 19:40]
+     :PROPERTIES:
+     :CREATED:  [2022-12-13 Tue 20:22]
+     :END:
+
+- Tonkor
+- Chakkhur
+- Quartak
+
+*** Tenet Weapons
+    :PROPERTIES:
+    :CREATED:  [2022-10-15 Sat 15:51]
+    :END:
+
+**** DONE Goal: Diplos
+     CLOSED: [2022-10-15 Sat 20:16]
+     :PROPERTIES:
+     :CREATED:  [2022-10-15 Sat 20:16]
+     :END:
+
+- Arca Plasmor
+- Diplos
+
+*** Sortie
+    :PROPERTIES:
+    :CREATED:  [2022-10-17 Mon 20:07]
+    :END:
+
+**** Anasa
+     :PROPERTIES:
+     :CREATED:  [2022-10-17 Mon 20:08]
+     :END:
+
+**** Anasa
+     :PROPERTIES:
+     :CREATED:  [2022-10-21 Fri 21:42]
+     :END:
+
+**** Kitgun riven
+     :PROPERTIES:
+     :CREATED:  [2022-10-22 Sat 14:10]
+     :END:
+
+**** 4000 Endo
+     :PROPERTIES:
+     :CREATED:  [2022-10-23 Sun 23:18]
+     :END:
+
+**** Zaw Riven
+     :PROPERTIES:
+     :CREATED:  [2022-10-24 Mon 21:03]
+     :END:
+
+**** Affinity booster :archon:
+     :PROPERTIES:
+     :CREATED:  [2022-10-24 Mon 21:55]
+     :END:
+
+**** Affinity booster
+     :PROPERTIES:
+     :CREATED:  [2022-10-25 Tue 21:42]
+     :END:
+
+**** 6000 Kuva
+     :PROPERTIES:
+     :CREATED:  [2022-10-26 Wed 20:39]
+     :END:
+
+**** Melee Riven
+     :PROPERTIES:
+     :CREATED:  [2022-10-27 Thu 23:07]
+     :END:
+
+**** Anasa
+     :PROPERTIES:
+     :CREATED:  [2022-10-28 Fri 22:43]
+     :END:
+
+**** Anasa :archon:
+     :PROPERTIES:
+     :CREATED:  [2022-10-30 Sun 23:02]
+     :END:
+
+**** 6000 Kuva
+     :PROPERTIES:
+     :CREATED:  [2022-10-31 Mon 21:36]
+     :END:
+
+**** Anasa
+     :PROPERTIES:
+     :CREATED:  [2022-11-01 Tue 23:43]
+     :END:
+
+**** 6000 Kuva
+     :PROPERTIES:
+     :CREATED:  [2022-11-02 Wed 20:05]
+     :END:
+
+**** Pistol Riven :archon:
+     :PROPERTIES:
+     :CREATED:  [2022-11-06 Sun 22:21]
+     :END:
+
+**** Shotgun Riven
+     :PROPERTIES:
+     :CREATED:  [2022-11-07 Mon 23:26]
+     :END:
+
+**** Anasa
+     :PROPERTIES:
+     :CREATED:  [2022-11-09 Wed 21:50]
+     :END:
+
+**** 6000 Kuva
+     :PROPERTIES:
+     :CREATED:  [2022-11-11 Fri 20:10]
+     :END:
+
+**** Mod drop chance booster :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2022-11-13 Sun 15:42]
+     :END:
+
+**** Melee Riven :common:archon:
+     :PROPERTIES:
+     :CREATED:  [2022-11-13 Sun 23:35]
+     :END:
+
+**** Pistol Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-14 Mon 19:39]
+     :END:
+
+**** Kitgun Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-19 Sat 18:27]
+     :END:
+
+**** Melee Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-23 Wed 22:24]
+     :END:
+
+**** Melee Riven :archon:common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-23 Wed 23:16]
+     :END:
+
+**** Zaw Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-25 Fri 20:36]
+     :END:
+
+**** Rifle Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-26 Sat 21:29]
+     :END:
+
+**** 6000 Kuva :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2022-11-27 Sun 22:48]
+     :END:
+
+**** Anasa :common:
+     :PROPERTIES:
+     :CREATED:  [2022-11-28 Mon 22:35]
+     :END:
+
+**** Rifle Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-01 Thu 23:20]
+     :END:
+
+**** Anasa :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-05 Mon 23:43]
+     :END:
+
+**** Mod drop chance booster :rare:
+     :PROPERTIES:
+     :CREATED:  [2022-12-06 Tue 21:43]
+     :END:
+
+**** Drop chance booster :rare:
+     :PROPERTIES:
+     :CREATED:  [2022-12-07 Wed 21:37]
+     :END:
+
+**** 8000 Endo :uncommon:archon:
+     :PROPERTIES:
+     :CREATED:  [2022-12-07 Wed 22:49]
+     :END:
+
+**** Orokin Reactor blueprint :rare:
+     :PROPERTIES:
+     :CREATED:  [2022-12-09 Fri 17:16]
+     :END:
+
+**** Pistol Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-11 Sun 00:16]
+     :END:
+
+**** 6000 Kuva :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2022-12-13 Tue 19:16]
+     :END:
+
+**** Anasa :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-19 Mon 19:00]
+     :END:
+
+**** Exilus Warframe Adapter :rare:
+     :PROPERTIES:
+     :CREATED:  [2022-12-20 Tue 21:58]
+     :END:
+
+**** Pistol Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-29 Thu 21:25]
+     :END:
+
+**** Ayatan Anasa :common:
+     :PROPERTIES:
+     :CREATED:  [2022-12-30 Fri 21:08]
+     :END:
+
+**** 6000 Kuva :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2022-12-31 Sat 14:37]
+     :END:
+
+**** 4000 Endo :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2023-01-02 Mon 00:02]
+     :END:
+
+**** Anasa :common:
+     :PROPERTIES:
+     :CREATED:  [2023-01-02 Mon 21:00]
+     :END:
+
+**** Zaw Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2023-01-03 Tue 23:18]
+     :END:
+
+**** 4000 Endo :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2023-01-04 Wed 16:08]
+     :END:
+
+**** Melee Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2023-01-05 Thu 22:16]
+     :END:
+
+**** Melee Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2023-01-07 Sat 22:39]
+     :END:
+
+**** Affinity booster :rare:
+     :PROPERTIES:
+     :CREATED:  [2023-01-08 Sun 16:03]
+     :END:
+
+**** 4000 Endo :uncommon:
+     :PROPERTIES:
+     :CREATED:  [2023-01-10 Tue 23:46]
+     :END:
+
+**** Exilus Warframe Adapter :rare:
+     :PROPERTIES:
+     :CREATED:  [2023-01-11 Wed 21:54]
+     :END:
+
+**** Pistol Riven :common:
+     :PROPERTIES:
+     :CREATED:  [2023-01-13 Fri 00:44]
+     :END:
+
+**** Resource Drop chance booster :rare:
+     :PROPERTIES:
+     :CREATED:  [2023-01-14 Sat 00:15]
+     :END:
+
