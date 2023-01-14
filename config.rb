@@ -269,7 +269,7 @@
 
   Gollum::Markup.formats[:org][:enabled] = true
 
-  puts Gollum::Markup.formats.inspect
+  # puts Gollum::Markup.formats.inspect
 
   #-------------------------------------------------------------------------------
   # Change default markup
